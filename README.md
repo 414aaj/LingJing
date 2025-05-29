@@ -23,9 +23,16 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 
 <details>
   <summary>Macos</summary>
+  
+  待更...
+  
 </details>
+
 <details>
   <summary>Windows</summary>
+    
+  待更...
+  
 </details>
 
 </details>
@@ -41,11 +48,38 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 </p>
 
 
+## 安装
+
+<details>
+  <summary>👈详情</summary>
+
+  <details>
+  <summary>Macos</summary>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ce36fd2-ea34-4c5f-8787-f778f8e2da30" alt="image" width="70%" />
+</p>
+
+
+遇到 "LingJing”已损坏，无法打开。你应该将它移到度纸篓。" 执行下面命令
+
+```bash
+
+sudo xattr -rd com.apple.quarantine /Applications/LingJing.app
+
+```
+  
+  </details>
+
+
+</details>
+
 ## 使用方法
 
 <details>
   <summary>👈详情</summary>
-  test
+  
+  待更...
+  
 </details>
 
 ## 平台支持系统
