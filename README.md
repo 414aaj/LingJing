@@ -13,7 +13,7 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 </div>
 
 <details>
-  <summary>------------------视频演示------------------</summary>
+  <summary>👈------------------视频演示------------------</summary>
 
 <details>
   <summary>Macos</summary>
@@ -31,7 +31,7 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 ## 使用方法
 
 <details>
-  <summary>详情</summary>
+  <summary>👈详情</summary>
   test
 </details>
 
