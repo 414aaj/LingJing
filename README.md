@@ -83,7 +83,7 @@ sudo xattr -rd com.apple.quarantine /Applications/LingJing.app
 </details>
 
 ## 平台支持系统
-MacOs Arm 64、MacOs Amd 64(未测试)、Windows Amd 64
+MacOs Arm 64、Windows Amd 64
 
 ## 靶机
 外部靶机:集成开源渗透靶机环境或合作方定制靶场
