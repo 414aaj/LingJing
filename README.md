@@ -32,9 +32,9 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 <br><br>
 
 <details>
-  <summary>👈                                                                                 
+  <summary>👈
     <p align="center">👉👉👉👉👉👉👉👉视频演示👈👈👈👈👈👈👈👈</p>
-    👆                                                                                   </summary>
+  </summary>
 <details>
   <summary>Macos</summary>
   
