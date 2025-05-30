@@ -14,7 +14,8 @@
 
 LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网络安全靶场平台。该平台基于 Go+fyne 开发，支持单靶机、多层内网以及域环境等多种场景。旨在为网络安全研究人员、渗透测试人员以及相关专业学生提供了一个高度灵活且功能强大的实战演练环境，助力用户全方位提升网络安全攻防能力。
 
-- 特点：无论单靶机、还是多内网等环境均在10秒内启动
+- 特点1：无论单靶机、还是多内网等环境均在10秒内启动
+- 特点2：靶机由平台内部路由控制通信,不可出网，mac物理机的靶机至多访问到指定网卡同网段设备
 
 
 
@@ -63,11 +64,19 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 遇到 "LingJing”已损坏，无法打开。你应该将它移到度纸篓。" 执行下面命令
 
 ```bash
-
 sudo xattr -rd com.apple.quarantine /Applications/LingJing.app
-
 ```
-  
+
+安装依赖
+
+```bash
+brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp vde ncurses libusb libssh
+```
+  </details>
+
+  <details>
+  <summary>Windows</summary>
+  待更...
   </details>
 
 
