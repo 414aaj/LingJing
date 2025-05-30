@@ -76,7 +76,7 @@ sudo xattr -rd com.apple.quarantine /Applications/LingJing.app
 安装依赖
 
 ```bash
-brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp vde ncurses libusb libssh
+brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp vde ncurses libusb libssh libpng
 ```
   </details>
 
