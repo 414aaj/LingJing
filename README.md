@@ -7,7 +7,7 @@
 ## 简介
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/802a417f-6a4d-4d2e-9759-d0988a0d1516" alt="image" width="30%" />
+  <img src="https://github.com/user-attachments/assets/831c5936-0042-4d24-a98d-1c6580d89941" alt="image" width="30%" />
 </p>
 
 
