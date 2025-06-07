@@ -118,7 +118,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   <img src="https://github.com/user-attachments/assets/f20ffafe-8c1f-4641-a870-3062766efb60" alt="image" width="70%" />
 </p>
 
-卸载:mac直接删除掉app即可,windows需要从平台卸载网卡(或其他方式手动卸载)
+卸载:Mac直接删除掉app即可,Windows需要从平台卸载网卡(或其他方式手动卸载)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/08754866-49ff-48f6-9b38-ad24cb2af925" alt="image" width="70%" />
@@ -179,7 +179,7 @@ Mac每次运行需要管理员授权(使平台路由桥接到物理网卡),Windo
 
 <details>
   <summary>👈详情</summary>
-    1. Writeup:在你的Writeup文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用,将你的文章的链接发送到LingJing平台上的公众号,经验证后引入到平台相应的靶机Writeup中
+    1. Writeup:在你的文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用,将你的文章链接发送到LingJing平台上的公众号,经验证后引入到平台相应的靶机Writeup
     <br><br>
     2. 可在平台存放合作方定制的靶机环境(细节通过LingJing平台上的公众号进行沟通)
     <br><br>
