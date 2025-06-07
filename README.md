@@ -37,7 +37,7 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
     <p align="center">👉👉👉👉👉👉👉👉视频演示👈👈👈👈👈👈👈👈</p>
   </summary>
 <details>
-  <summary>Macos</summary>
+  <summary>Mac</summary>
   
   待更...
   
@@ -157,6 +157,7 @@ Windows VM虚拟机可添加网卡桥接LingJing网卡(若虚拟机未能从Ling
 Mac每次运行需要管理员授权(使平台路由桥接到物理网卡),Windows只在通过平台安装或卸载网卡时需要管理员授权。
 
 ## 异常情况
+若遇Bug可通过LingJing平台上的公众号(相对看到消息更快些)或github进行反馈
 <details>
   <summary>👈详情</summary>
   若平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程会后台持续运行,并且再次启动平台后路由无法正常运行,在结束掉进程后通过平台重启路由或重启平台)
@@ -178,8 +179,12 @@ Mac每次运行需要管理员授权(使平台路由桥接到物理网卡),Windo
 
 <details>
   <summary>👈详情</summary>
-- Writeup:在你的Writeup文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用,将你的文章的链接发送到LingJing平台上的公众号,经验证后引入到平台相应的靶机Writeup中
-- 可在平台存放合作方定制的靶机环境(细节通过LingJing平台上的公众号进行沟通)
+    1. Writeup:在你的Writeup文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用,将你的文章的链接发送到LingJing平台上的公众号,经验证后引入到平台相应的靶机Writeup中
+    <br><br>
+    2. 可在平台存放合作方定制的靶机环境(细节通过LingJing平台上的公众号进行沟通)
+    <br><br>
+    3. 待续...
+  
 </details>
 
 
