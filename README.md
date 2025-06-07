@@ -67,6 +67,7 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 
   <details>
   <summary>Macos</summary>
+把app移动到应用程序里面,在其他路径下运行可能会出错
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ce36fd2-ea34-4c5f-8787-f778f8e2da30" alt="image" width="70%" />
 </p>
