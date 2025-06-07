@@ -108,7 +108,6 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 <details>
   <summary>👈详情</summary>
 <br><br>
-PS:Mac暂时请勿使用command+q快捷键对平台进行关闭(后台进程无法被清理)
 <br><br>
 下载完靶机后启动需要路由为非红色状态且获取到IP地址
  <p align="center">
@@ -164,7 +163,6 @@ Mac每次运行需要管理员授权(使平台路由桥接到物理网卡),Windo
   <summary>👈详情</summary>
   若平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程,进程会持续运行导致再次启动平台后路由无法正常运行或相应靶机无法启动,在结束掉进程后通过平台重启路由或重启平台)
   <br><br>
-  PS:Mac暂时请勿使用command+q快捷键对平台进行关闭(后台进程无法被清理)
   <br><br>
   <br>
   Mac
