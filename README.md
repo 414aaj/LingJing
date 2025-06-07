@@ -58,7 +58,8 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 
 <br><br><br>
 
-
+## 平台支持系统
+MacOs Arm 64(已测试M1 M2 M4)、Windows Amd 64(已测试win10 win11)
 
 ## 安装
 
@@ -88,19 +89,18 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
   <details>
   <summary>Windows</summary>
+<br>
   初次需要管理员授权安装网卡。
-  网卡安装成功后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则尝试重启路由)。
+<br>
  <p align="center">
-<img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="400"/> | <img src="https://github.com/user-attachments/assets/a2be711b-3c1b-41a0-8089-10bc11dedf95" width="400"/> | <img src="https://github.com/user-attachments/assets/bb891ff2-26a2-45af-8e36-bf9342a3e3f0" width="400"/> |<img src="https://github.com/user-attachments/assets/589af388-e29a-40bf-a9aa-2cdca3b42707" width="400"/>
+<img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="400"/> | <img src="https://github.com/user-attachments/assets/a2be711b-3c1b-41a0-8089-10bc11dedf95" width="400"/>
  </p>
-
-
-
-
-
-
-
-
+ <br>
+  网卡安装成功后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则尝试重启路由)。
+<br><br>
+<p align="center">
+< <img src="https://github.com/user-attachments/assets/bb891ff2-26a2-45af-8e36-bf9342a3e3f0" width="400"/> |<img src="https://github.com/user-attachments/assets/589af388-e29a-40bf-a9aa-2cdca3b42707" width="400"/>
+ </p>
   </details>
 
 
@@ -110,13 +110,29 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 <details>
   <summary>👈详情</summary>
-  
-  待更...
+
+下载完靶机后启动需要路由为非红色状态且获取到IP地址
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/74fbb298-e240-478e-84af-cee4188d9d9a" width="400"/> | <img src="https://github.com/user-attachments/assets/4b46c75c-34fa-4531-a46b-d6c2591b3350" width="400"/> 
+ </p>
+
+靶机启动后通过IP访问相应服务(mac版暂时无法通过平台复制按钮对IP进行复制)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f20ffafe-8c1f-4641-a870-3062766efb60" alt="image" width="50%" />
+</p>
+
+卸载:mac直接删除掉app即可,windows需要从平台卸载网卡(或其他方式手动卸载)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08754866-49ff-48f6-9b38-ad24cb2af925" alt="image" width="50%" />
+</p>
+
+  </details>
+
   
 </details>
 
-## 平台支持系统
-MacOs Arm 64(已测试M1 M2 M4)、Windows Amd 64(已测试win10 win11)
+
 
 ## 靶机
 外部靶机:集成开源渗透靶机环境或合作方定制靶场
