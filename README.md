@@ -103,7 +103,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 </details>
 
 ## 平台支持系统
-MacOs Arm 64、Windows Amd 64
+MacOs Arm 64(已测试M1 M2 M4)、Windows Amd 64(已测试win10 win11)
 
 ## 靶机
 外部靶机:集成开源渗透靶机环境或合作方定制靶场
