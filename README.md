@@ -88,7 +88,39 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
   <details>
   <summary>Windows</summary>
-  待更...
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/45f8559d-22fa-4228-b9af-8b231ab286d7" alt="image" width="70%" />
+  </p>
+
+ 
+  初次需要管理员授权安装网卡
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" alt="image" width="70%" />
+  </p>
+
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/a2be711b-3c1b-41a0-8089-10bc11dedf95" alt="image" width="70%" />
+  </p>
+  
+  网卡安装成功后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则尝试重启路由)
+  
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/bb891ff2-26a2-45af-8e36-bf9342a3e3f0" alt="image" width="70%" />
+  </p>
+
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/589af388-e29a-40bf-a9aa-2cdca3b42707" alt="image" width="70%" />
+  </p>
+
+
+
+
+
+
+
+
   </details>
 
 
