@@ -93,13 +93,13 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   初次需要管理员授权安装网卡。
 <br>
  <p align="center">
-<img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="400"/> | <img src="https://github.com/user-attachments/assets/a2be711b-3c1b-41a0-8089-10bc11dedf95" width="400"/>
+<img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/> | <img src="https://github.com/user-attachments/assets/a2be711b-3c1b-41a0-8089-10bc11dedf95" width="45%"/>
  </p>
  <br>
   网卡安装成功后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则尝试重启路由)。
 <br><br>
 <p align="center">
-< <img src="https://github.com/user-attachments/assets/bb891ff2-26a2-45af-8e36-bf9342a3e3f0" width="400"/> |<img src="https://github.com/user-attachments/assets/589af388-e29a-40bf-a9aa-2cdca3b42707" width="400"/>
+< <img src="https://github.com/user-attachments/assets/bb891ff2-26a2-45af-8e36-bf9342a3e3f0" width="45%"/> |<img src="https://github.com/user-attachments/assets/589af388-e29a-40bf-a9aa-2cdca3b42707" width="45%"/>
  </p>
   </details>
 
@@ -113,7 +113,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 下载完靶机后启动需要路由为非红色状态且获取到IP地址
  <p align="center">
-<img src="https://github.com/user-attachments/assets/74fbb298-e240-478e-84af-cee4188d9d9a" width="400"/> | <img src="https://github.com/user-attachments/assets/4b46c75c-34fa-4531-a46b-d6c2591b3350" width="400"/> 
+<img src="https://github.com/user-attachments/assets/74fbb298-e240-478e-84af-cee4188d9d9a" width="45%"/> | <img src="https://github.com/user-attachments/assets/4b46c75c-34fa-4531-a46b-d6c2591b3350" width="45%"/> 
  </p>
 
 靶机启动后通过IP访问相应服务(mac版暂时无法通过平台复制按钮对IP进行复制)
@@ -141,9 +141,42 @@ LingJing靶机:自制或原创渗透测试靶机环境
 
 ## 外部虚拟机软件联动
 
+Mac Parallels Desktop中虚拟机若使用桥接网络则可以直接对靶机进行访问,若使用内部网络则需要添加路由(路由从平台复制到PD虚拟机中执行命令,mac暂时无法从复制按钮获取内容),若PD虚拟机使用PD内部网络无法反弹Shell
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30cd8785-d52d-433b-a942-b63fde55fe42" alt="image" width="50%" />
+</p>
+
+Windows VM虚拟机可添加网卡桥接LingJing网卡(若虚拟机未能从LingJing网卡获取到DHCP的IP地址可在虚拟机内对桥接的网卡先禁用再启用网卡，若依旧无法获取IP可尝试手动配置与平台路由通网段的IP地址)
+
+
+
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0e34c573-89f8-41bb-857e-69d6fd1a4775" width="50%"/>
+<br>
+
 ## 权限问题
 
+Mac每次运行需要管理员授权(使平台路由桥接到物理网卡),Windows只在通过平台安装或卸载网卡时需要管理员授权。
+
 ## 报错问题
+
+若平台因为Bug问题异常退出需要手动清理后台进程
+
+<br>
+Mac
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/280c0124-b447-4483-a5ec-694950f8250d" width="45%"/> | <img src="https://github.com/user-attachments/assets/8b5b9275-c679-4fec-b9ea-af2fb5fa7586" width="45%"/> 
+</p>
+<br>
+Winodws
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/973c5823-395d-47f4-a2dd-72eb8db288c4" width="50%"/>
+</p>
+
 
 
 ## 合作项
