@@ -18,10 +18,6 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 - 特点2:靶机启动时间控制在 5 至 30 秒，具体耗时与物理机性能密切相关。
 - 特点3:靶机通信由平台内部路由进行严格控制，禁止出网访问，保障网络环境安全稳定。
 - 特点4:平台具备在线更新功能，可及时同步最新版本。
-
-
-
-
 <br><br><br>
 
 <p align="center">
@@ -160,28 +156,34 @@ Windows VM虚拟机可添加网卡桥接LingJing网卡(若虚拟机未能从Ling
 
 Mac每次运行需要管理员授权(使平台路由桥接到物理网卡),Windows只在通过平台安装或卸载网卡时需要管理员授权。
 
-## 报错问题
-
-若平台因为Bug问题异常退出需要手动清理后台进程
-
-<br>
-Mac
-<br>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/280c0124-b447-4483-a5ec-694950f8250d" width="45%"/> | <img src="https://github.com/user-attachments/assets/8b5b9275-c679-4fec-b9ea-af2fb5fa7586" width="45%"/> 
-</p>
-<br>
-Winodws
-<br>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/973c5823-395d-47f4-a2dd-72eb8db288c4" width="50%"/>
-</p>
-
-
+## 异常情况
+<details>
+  <summary>👈详情</summary>
+  若平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程会后台持续运行,并且再次启动平台后路由无法正常运行,在结束掉进程后通过平台重启路由或重启平台)
+  <br>
+  Mac
+  <br>
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/280c0124-b447-4483-a5ec-694950f8250d" width="45%"/> | <img src="https://github.com/user-attachments/assets/8b5b9275-c679-4fec-b9ea-af2fb5fa7586" width="45%"/> 
+  </p>
+  <br>
+  Winodws
+  <br>
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/973c5823-395d-47f4-a2dd-72eb8db288c4" width="50%"/>
+  </p>
+</details>
 
 ## 合作项
 
-待更...
+<details>
+  <summary>👈详情</summary>
+- Writeup:在你的Writeup文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用,将你的文章的链接发送到LingJing平台上的公众号,经验证后引入到平台相应的靶机Writeup中
+- 可在平台存放合作方定制的靶机环境(细节通过LingJing平台上的公众号进行沟通)
+</details>
+
+
+
 
 
 
