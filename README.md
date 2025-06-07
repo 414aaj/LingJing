@@ -62,7 +62,7 @@ MacOs Arm 64(已测试M1 M2 M4)、Windows Amd 64(已测试win10 win11)
   <summary>👈详情</summary>
 
   <details>
-  <summary>Macos</summary>
+  <summary>Mac</summary>
 把app移动到应用程序里面,在其他路径下运行可能会出错
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ce36fd2-ea34-4c5f-8787-f778f8e2da30" alt="image" width="70%" />
