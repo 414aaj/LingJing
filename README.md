@@ -56,10 +56,12 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 ## 平台支持系统
 MacOs Arm 64(已测试M1 M2 M4)、Windows Amd 64(已测试win10 win11)
 
-## 安装
+## 下载安装
 
 <details>
   <summary>👈详情</summary>
+
+<img src="https://github.com/user-attachments/assets/04e369dd-c5c5-4556-8dfe-bf6fed0b6de9" width="45%"/> | <img src="https://github.com/user-attachments/assets/97b7783b-26ad-45c7-b41d-ae29b559fd18" width="45%"/>
 
   <details>
   <summary>Mac</summary>
@@ -113,13 +115,13 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 靶机启动后通过IP访问相应服务(mac版暂时无法通过平台复制按钮对IP进行复制)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f20ffafe-8c1f-4641-a870-3062766efb60" alt="image" width="50%" />
+  <img src="https://github.com/user-attachments/assets/f20ffafe-8c1f-4641-a870-3062766efb60" alt="image" width="70%" />
 </p>
 
 卸载:mac直接删除掉app即可,windows需要从平台卸载网卡(或其他方式手动卸载)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08754866-49ff-48f6-9b38-ad24cb2af925" alt="image" width="50%" />
+  <img src="https://github.com/user-attachments/assets/08754866-49ff-48f6-9b38-ad24cb2af925" alt="image" width="70%" />
 </p>
 
   </details>
@@ -139,16 +141,15 @@ LingJing靶机:自制或原创渗透测试靶机环境
 Mac Parallels Desktop中虚拟机若使用桥接网络则可以直接对靶机进行访问,若使用内部网络则需要添加路由(路由从平台复制到PD虚拟机中执行命令,mac暂时无法从复制按钮获取内容),若PD虚拟机使用PD内部网络无法反弹Shell
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30cd8785-d52d-433b-a942-b63fde55fe42" alt="image" width="50%" />
+  <img src="https://github.com/user-attachments/assets/30cd8785-d52d-433b-a942-b63fde55fe42" alt="image" width="70%" />
 </p>
 
-Windows VM虚拟机可添加网卡桥接LingJing网卡(若虚拟机未能从LingJing网卡获取到DHCP的IP地址可在虚拟机内对桥接的网卡先禁用再启用网卡，若依旧无法获取IP可尝试手动配置与平台路由通网段的IP地址)
-
+Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥接网卡时未找到LingJing这张网卡则需要重启一下物理机;若虚拟机未能从LingJing网卡获取到DHCP的IP地址可在虚拟机内对桥接的网卡先禁用再启用网卡，若依旧无法获取IP可尝试手动配置与平台路由通网段的IP地址)
 
 
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0e34c573-89f8-41bb-857e-69d6fd1a4775" width="50%"/>
+<img src="https://github.com/user-attachments/assets/0e34c573-89f8-41bb-857e-69d6fd1a4775" width="70%"/>
 <br>
 
 ## 权限问题
@@ -170,7 +171,7 @@ Mac每次运行需要管理员授权(使平台路由桥接到物理网卡),Windo
   Winodws
   <br>
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/973c5823-395d-47f4-a2dd-72eb8db288c4" width="50%"/>
+  <img src="https://github.com/user-attachments/assets/973c5823-395d-47f4-a2dd-72eb8db288c4" width="70%"/>
   </p>
 </details>
 
