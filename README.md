@@ -33,8 +33,7 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 <br><br>
 
 <details>
-  <summary>👈
-    <p align="center">👉👉👉👉👉👉👉👉视频演示👈👈👈👈👈👈👈👈</p>
+  <summary>👈👈👈👈👈👈👈👈视频演示</p>
   </summary>
 <details>
   <summary>Mac</summary>
