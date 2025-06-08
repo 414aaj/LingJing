@@ -36,10 +36,15 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 <div align="center">
   ⚠️⚠️⚠️合作项见文末⚠️⚠️⚠️
 </div>
-<br><br>
+<br>
 
+<br>
+
+***
+
+<br>
 <p align="center">
-  内置Attacker预览
+  【内置Attacker预览】
 </p>
 由于平台上传限制,视频压缩了画质
 
@@ -49,6 +54,12 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 <img src="https://github.com/user-attachments/assets/547f3ba0-8d80-4323-b1bc-ab51e67e3d25" width="45%"/> | <img src="https://github.com/user-attachments/assets/5185db8c-5fd0-445a-843a-c8658c0c07ed" width="45%"/>
  </p>
 <br><br>
+
+<br>
+
+***
+
+<br>
 
 ## 平台支持系统
 Mac Arm 64(已测试M1 M2 M4)、Windows Amd 64(已测试Win10 Win11; 不支持Win7 , Server版未测试)
