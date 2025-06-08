@@ -32,27 +32,6 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 
 <br><br>
 
-<details>
-  <summary>👈👈👈👈👈👈👈👈视频演示</p>
-  </summary>
-<details>
-  <summary>Mac</summary>
-  
-  待更...
-  
-</details>
-
-<details>
-  <summary>Windows</summary>
-    
-  待更...
-  
-</details>
-
-</details>
-
-<br><br><br>
-
 ## 平台支持系统
 Mac Arm 64(已测试M1 M2 M4)、Windows Amd 64(已测试Win10 Win11; 不支持Win7 , Server版未测试)
 
