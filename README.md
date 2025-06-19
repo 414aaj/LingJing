@@ -95,6 +95,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   <details>
   <summary>Windows</summary>
 <br>
+  PS:避开中文目录,否则路由可能无法启动
   初次需要管理员授权安装网卡。
 <br>
  <p align="center">
