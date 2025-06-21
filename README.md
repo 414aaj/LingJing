@@ -34,8 +34,9 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 <br>
 
 <div align="center">
-  公众号后台加入灵境测试群聊
+  <strong><font size="18">公众号后台加入灵境测试群聊</font></strong>
 </div>
+
 
 <div align="center">
   ⚠️⚠️⚠️合作项见文末⚠️⚠️⚠️
