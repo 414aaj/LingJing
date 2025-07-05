@@ -31,10 +31,11 @@ LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网�
 
 ***
 
-已部署靶机环境23套:
+已部署靶机环境24套:
 - VulnStack 3套
 - vulhub 10套
 - vulnhub 10套
+- vulntarget 1套
 
 <br>
 
