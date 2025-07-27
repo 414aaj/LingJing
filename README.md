@@ -16,8 +16,9 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/653e2965-fcbe-4072-8330-6d27ba3fed96" alt="image" width="95%" />
+  <img src="https://github.com/user-attachments/assets/25a66fbb-c5d3-4ed7-994c-1be57998006f" alt="image" width="95%" />
 </p>
+
 
 
 
