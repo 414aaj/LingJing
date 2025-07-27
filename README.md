@@ -16,8 +16,10 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a7f5829-a97a-473c-86f6-63393b43a4c0" alt="image" width="95%" />
+  <img src="https://github.com/user-attachments/assets/1bb084c3-0f9c-4317-852b-16a50a0c49a1" alt="image" width="95%" />
 </p>
+
+
 
 
 LingJing 是一款专为复杂网络环境渗透测试需求打造的本地网络安全靶场平台。该平台基于 Go+fyne 开发，支持单靶机、多层内网以及域环境等多种场景。旨在为网络安全研究人员、渗透测试人员以及相关专业学生提供一个高度灵活且功能强大的实战演练环境，助力用户全方位提升网络安全攻防能力。
