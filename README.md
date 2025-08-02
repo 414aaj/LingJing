@@ -146,7 +146,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 <img src="https://github.com/user-attachments/assets/74fbb298-e240-478e-84af-cee4188d9d9a" width="45%"/> | <img src="https://github.com/user-attachments/assets/4b46c75c-34fa-4531-a46b-d6c2591b3350" width="45%"/> 
  </p>
 
-靶机启动后通过IP访问相应服务(Mac版暂时无法通过平台复制按钮对IP进行复制)
+靶机启动后通过IP访问相应服务
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f20ffafe-8c1f-4641-a870-3062766efb60" alt="image" width="70%" />
 </p>
@@ -171,7 +171,7 @@ LingJing靶机:自制或原创渗透测试靶机环境
 
 ## 外部虚拟机软件联动
 
-Mac Parallels Desktop中虚拟机若使用桥接网络则可以直接对靶机进行访问,若使用内部网络则需要添加路由(路由从平台复制到PD虚拟机中执行命令,Mac暂时无法从复制按钮获取内容),若PD虚拟机使用PD内部网络无法反弹Shell
+Mac Parallels Desktop中虚拟机若使用桥接网络则可以直接对靶机进行访问,若使用内部网络则需要添加路由(路由从平台复制到PD虚拟机中执行命令),若PD虚拟机使用PD内部网络无法反弹Shell
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30cd8785-d52d-433b-a942-b63fde55fe42" alt="image" width="70%" />
