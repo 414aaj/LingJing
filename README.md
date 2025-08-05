@@ -49,7 +49,7 @@ LingJing 平台的靶场资源丰富多样，涵盖开源靶场靶机以及后�
 <br>
 
 <div align="center">
-  <strong><font size="28">公众号后台加入灵境测试群聊</font></strong>
+  <strong><font size="28">关注公众号,后台加入灵境测试群聊</font></strong>
 </div>
 
 <br>
