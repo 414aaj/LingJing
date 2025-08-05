@@ -64,7 +64,12 @@ LingJing 平台的靶场资源丰富多样，涵盖开源靶场靶机以及后�
 
 ***
 
-### 靶场靶机环境
+
+## 靶场靶机环境
+
+外部开源靶机:集成开源渗透靶机环境或合作方定制靶场
+LingJing靶机:自制原创或实战渗透测试脱敏靶机环境
+
 已部署靶机环境44套:
 - VulnStack 6套
 - vulhub 10套
@@ -183,10 +188,6 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 
 
-## 靶机
-外部靶机:集成开源渗透靶机环境或合作方定制靶场
-
-LingJing靶机:自制或原创渗透测试靶机环境
 
 ## 外部虚拟机软件联动
 
