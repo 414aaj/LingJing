@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 ## 平台已支持系统
 
-- MacOS (Arm64)：已成功测试并兼容 M1、M2 和 M4 芯片的 Mac 设备，为苹果用户提供了强大的支持，M3芯片暂未测试。
+- MacOS (Arm64)：已成功测试并兼容 M1、M2 和 M4 芯片的 Mac 设备，M3芯片暂未测试。
 - Windows (AMD64)：支持 Windows 10 和 Windows 11 系统，为 Windows 用户提供了稳定的运行环境。Windows 7 不在支持范围内，服务器版本尚未进行测试。
 
 ## 下载安装
