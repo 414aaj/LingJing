@@ -206,11 +206,9 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 <img src="https://github.com/user-attachments/assets/0e34c573-89f8-41bb-857e-69d6fd1a4775" width="70%"/>
 <br>
 
-## 权限问题
-
-Mac每次运行需要管理员授权(使平台路由桥接到物理网卡)
-
-Windows只在通过平台安装或卸载网卡时需要管理员授权。
+## 平台权限
+- Mac每次运行平台时需管理员授权(使平台路由桥接到物理网卡)
+- Windows只在通过平台安装或卸载网卡时需要管理员授权。
 
 ## 异常情况
 若遇Bug可通过LingJing平台上的公众号(相对看到消息更快些)或github进行反馈
