@@ -160,18 +160,19 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/c86ce993-adaf-43cb-98df-3bfc2e875fc8" width="45%"/> | <img src="https://github.com/user-attachments/assets/7aa3d7f2-137c-40a8-8f35-ece4fcd7fef7" width="45%"/>
-<img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/e1685adb-059b-42b8-8c14-060fb6650c96" width="45%"/> 
+<img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/>
  </p>
-  <p align="center">
-<img src="https://github.com/user-attachments/assets/162449fd-631a-4022-9198-1f8843b8cffc" width="45%"/> | <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/>
-<img src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" width="45%"/> | <img src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" width="50%"/> 
- </p>
-
  <br>
   网卡安装成功后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则尝试重启路由)。
 <br><br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb891ff2-26a2-45af-8e36-bf9342a3e3f0" width="45%"/> |<img src="https://github.com/user-attachments/assets/589af388-e29a-40bf-a9aa-2cdca3b42707" width="45%"/>
+<img src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" width="45%"/> | <img src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" width="50%"/> 
+ </p>
+ <br>
+  点击托盘设置好路径
+<br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1685adb-059b-42b8-8c14-060fb6650c96" width="45%"/> | <img src="https://github.com/user-attachments/assets/162449fd-631a-4022-9198-1f8843b8cffc" width="45%"/>
  </p>
   </details>
 
