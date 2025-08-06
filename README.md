@@ -123,14 +123,16 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 <details>
   <summary>👈详情</summary>
 
-<img src="https://github.com/user-attachments/assets/04e369dd-c5c5-4556-8dfe-bf6fed0b6de9" width="45%"/> | <img src="https://github.com/user-attachments/assets/97b7783b-26ad-45c7-b41d-ae29b559fd18" width="45%"/>
+  
+<img src="https://github.com/user-attachments/assets/03611d91-1da3-4dd6-8e6e-372dfb84e8d5" width="45%"/> | <img src="https://github.com/user-attachments/assets/5f02b083-73fb-4ffc-85a7-a627bd0a5e5d" width="45%"/>
 
   <details>
   <summary>Mac</summary>
 把app移动到应用程序里面,在其他路径下运行可能会出错
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ce36fd2-ea34-4c5f-8787-f778f8e2da30" alt="image" width="70%" />
+  <img src="https://github.com/user-attachments/assets/4dc99c53-90c2-4287-8b4d-1af30d29e9ce" alt="image" width="70%" />
 </p>
+
 
 
 遇到 "LingJing”已损坏，无法打开。你应该将它移到度纸篓。" 执行下面命令
