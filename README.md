@@ -172,13 +172,16 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   <summary>👈详情</summary>
 下载完靶机后启动需要路由为非红色状态且获取到IP地址
  <p align="center">
-<img src="https://github.com/user-attachments/assets/74fbb298-e240-478e-84af-cee4188d9d9a" width="45%"/> | <img src="https://github.com/user-attachments/assets/4b46c75c-34fa-4531-a46b-d6c2591b3350" width="45%"/> 
+<img src="https://github.com/user-attachments/assets/ac5a0071-18af-49ce-a3d2-869c591c96d8" width="45%"/> | <img src="https://github.com/user-attachments/assets/2637ac97-bccf-4a2e-9336-4f9a93de524d" width="45%"/> 
  </p>
+
+ 
 
 靶机启动后通过IP访问相应服务
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f20ffafe-8c1f-4641-a870-3062766efb60" alt="image" width="70%" />
+  <img src="https://github.com/user-attachments/assets/6d631812-f24a-456b-a028-be27a6f09cd8" alt="image" width="70%" />
 </p>
+
 
 卸载:Mac直接删除掉app即可,Windows需要从平台卸载网卡(或其他方式手动卸载)
 
