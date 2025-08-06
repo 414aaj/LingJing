@@ -160,12 +160,8 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/c86ce993-adaf-43cb-98df-3bfc2e875fc8" width="45%"/> | <img src="https://github.com/user-attachments/assets/7aa3d7f2-137c-40a8-8f35-ece4fcd7fef7" width="45%"/>
-<img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> 
+<img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/e1685adb-059b-42b8-8c14-060fb6650c96" width="45%"/> 
  </p>
-  <p align="center">
-<img src="https://github.com/user-attachments/assets/e1685adb-059b-42b8-8c14-060fb6650c96" width="50%"/> 
- </p>
-
   <p align="center">
 <img src="https://github.com/user-attachments/assets/162449fd-631a-4022-9198-1f8843b8cffc" width="45%"/> | <img src="https://github.com/user-attachments/assets/162449fd-631a-4022-9198-1f8843b8cffc" width="45%"/>
  </p>
