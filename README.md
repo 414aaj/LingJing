@@ -151,7 +151,19 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   <details>
   <summary>Windows</summary>
 <br>
-  PS:避开中文目录,否则路由可能无法启动
+
+下载解压后将LingJing文件夹放置合适的盘符位置即可（PS:避开中文目录,否则路由可能无法启动）
+
+<img width="984" height="773" alt="image" src="https://github.com/user-attachments/assets/c86ce993-adaf-43cb-98df-3bfc2e875fc8" />
+<img width="1115" height="696" alt="image" src="https://github.com/user-attachments/assets/7aa3d7f2-137c-40a8-8f35-ece4fcd7fef7" />
+<img width="2034" height="1103" alt="image" src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" />
+<img width="445" height="198" alt="image" src="https://github.com/user-attachments/assets/e1685adb-059b-42b8-8c14-060fb6650c96" />
+<img width="2047" height="1114" alt="image" src="https://github.com/user-attachments/assets/162449fd-631a-4022-9198-1f8843b8cffc" />
+<img width="2044" height="1114" alt="image" src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" />
+<img width="2041" height="1110" alt="image" src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" />
+
+
+    
   初次需要管理员授权安装网卡。
 <br>
  <p align="center">
