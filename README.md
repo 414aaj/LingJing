@@ -163,7 +163,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 <img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/>
  </p>
  <br>
-  网卡安装成功后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则尝试重启路由)。
+  网卡安装成功会弹出是否重启物理机弹框(不重启的话联动外部虚拟机软件时,可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则尝试重启路由)。
 <br><br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" width="45%"/> | <img src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" width="50%"/> 
@@ -198,8 +198,9 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 卸载:Mac直接删除掉app即可,Windows需要从平台卸载网卡(或其他方式手动卸载)
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08754866-49ff-48f6-9b38-ad24cb2af925" alt="image" width="70%" />
+  <img src="https://github.com/user-attachments/assets/045cd6c6-d7c1-43e4-b922-187021aafb4e" alt="image" width="70%" />
 </p>
 
   </details>
@@ -214,17 +215,19 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 Mac Parallels Desktop中虚拟机若使用桥接网络则可以直接对靶机进行访问,若使用内部网络则需要添加路由(路由从平台复制到PD虚拟机中执行命令),若PD虚拟机使用PD内部网络无法反弹Shell
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30cd8785-d52d-433b-a942-b63fde55fe42" alt="image" width="70%" />
+  <img src="https://github.com/user-attachments/assets/6095ec11-1533-4ec5-bec6-0416317d036f" alt="image" width="70%" />
 </p>
 
 Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥接网卡时未找到LingJing这张网卡则需要重启一下物理机;若虚拟机未能从LingJing网卡获取到DHCP的IP地址可在虚拟机内对桥接的网卡先禁用再启用网卡，若依旧无法获取IP可尝试手动配置与平台路由通网段的IP地址)
-
-
 <br>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/0e34c573-89f8-41bb-857e-69d6fd1a4775" width="70%"/>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/46614d7c-494d-4d8b-b826-2ff1d0a160aa" width="45%"/> | <img src="https://github.com/user-attachments/assets/36759cb2-00bb-49f9-adc8-a969730f3982" width="45%"/>
+<img src="https://github.com/user-attachments/assets/1311dc70-69f9-41c1-b07b-792e9f673b6f" width="45%"/> | <img src="https://github.com/user-attachments/assets/5881b53f-06bc-464e-bd1b-f2383efd360e" width="45%"/>
+ </p>
 <br>
+
 
 ## 平台权限
 - Mac每次运行平台时需管理员授权(使平台路由桥接到物理网卡)
