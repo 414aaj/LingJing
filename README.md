@@ -96,7 +96,7 @@ LingJing靶机:自制原创或实战渗透测试脱敏靶机环境
 
 <br>
 <p align="center">
-  【内置Attacker预览】
+  【内置Attacker预告】
 </p>
 由于平台上传限制,视频压缩了画质
 
@@ -213,8 +213,9 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 ## 外部虚拟机软件联动
 
+<details>
+  <summary>👈详情</summary>
 Mac Parallels Desktop中虚拟机若使用桥接网络则可以直接对靶机进行访问,若使用内部网络则需要添加路由(路由从平台复制到PD虚拟机中执行命令),若PD虚拟机使用PD内部网络无法反弹Shell
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6095ec11-1533-4ec5-bec6-0416317d036f" alt="image" width="70%" />
@@ -226,8 +227,8 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 <img src="https://github.com/user-attachments/assets/46614d7c-494d-4d8b-b826-2ff1d0a160aa" width="45%"/> | <img src="https://github.com/user-attachments/assets/36759cb2-00bb-49f9-adc8-a969730f3982" width="45%"/>
 <img src="https://github.com/user-attachments/assets/1311dc70-69f9-41c1-b07b-792e9f673b6f" width="45%"/> | <img src="https://github.com/user-attachments/assets/5881b53f-06bc-464e-bd1b-f2383efd360e" width="45%"/>
  </p>
-<br>
-
+  </p>
+</details>
 
 ## 平台权限
 - Mac每次运行平台时需管理员授权(使平台路由桥接到物理网卡)
