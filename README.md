@@ -135,7 +135,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 
 
-遇到 "LingJing”已损坏，无法打开。你应该将它移到度纸篓。" 执行下面命令
+遇到 "LingJing”已损坏，无法打开。你应该将它移到废纸篓。" 执行下面命令
 
 ```bash
 sudo xattr -rd com.apple.quarantine /Applications/LingJing.app
