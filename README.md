@@ -131,7 +131,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 把app移动到应用程序里面,在其他路径下运行可能会出错
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a332b7f2-8f26-48db-94c0-3c8fcf9a854e" alt="image" width="70%" />
+  <img src="https://github.com/user-attachments/assets/9d963f63-f2e9-477d-abf1-c854c008427f" alt="image" width="70%" />
 </p>
 
 
