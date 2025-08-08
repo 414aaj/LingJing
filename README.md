@@ -8,14 +8,18 @@
 </p>
 
 <br>
-
-***
-
-<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25a66fbb-c5d3-4ed7-994c-1be57998006f" alt="image" width="95%" />
 </p>
+<br>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ba3f45d3-627f-426e-8768-b365238ac846" alt="image" width="90%" />
+<br>
+<img src="https://github.com/user-attachments/assets/835f6d16-0feb-43ab-845c-10a132b970a5" alt="image" width="90%" />
+<br>
+
+***
 ## 简介
 
 ***LingJing*** 是一款专为复杂网络环境渗透测试量身打造的桌面级本地网络安全靶场平台。支持在线下载和**免配置一键部署**靶机环境，**平台内置路由**管理、监控打靶流量，快速启动靶机，满足从入门学习到红蓝队实战的流程攻防训练需求。后续版本将更新内置 Attacker 机器，进一步完善渗透测试打靶训练的完整流程，显著提升用户的训练体验和效率。本平台基于 Go+Fyne 构建图形界面，底层采用 QEMU 虚拟化技术，支持跨架构靶机启动。并且**能在 Mac M 系列芯片设备上启动 AMD64 架构靶机**，确保在不同硬件环境下无缝开展测试与训练。
