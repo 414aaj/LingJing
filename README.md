@@ -57,7 +57,7 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 <br>
 
 <div align="center">
-  <strong><font size="28">关注公众号,后台加入灵境测试群聊</font></strong>
+  <strong><font size="28">关注公众号,加入灵境测试群聊</font></strong>
 </div>
 
 <br>
@@ -77,9 +77,9 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 
 外部靶机:集成开源渗透靶场、靶机环境或合作方定制靶场
 
-LingJing靶机:自制原创或实战渗透测试脱敏靶机环境
+LingJing靶机:自制原创靶机环境或渗透测试实战脱敏靶机环境
 
-目前LingJing平台已部署靶机环境44套:
+LingJing平台目前已部署靶机环境44套:
 - VulnStack 6套
 - vulhub 10套
 - vulnhub 10套
@@ -117,10 +117,10 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 <br>
 
-## 平台已适配物理机系统
+## 平台已适配的物理机系统
 
-- MacOS (Arm64)：已成功测试并兼容 M1、M2 和 M4 芯片的 Mac 设备，M3芯片暂未测试。
-- Windows (AMD64)：支持 Windows 10 和 Windows 11 系统，为 Windows 用户提供了稳定的运行环境。Windows 7 不在支持范围内，服务器版本尚未进行测试。
+- MacOS (Arm64)：已兼容基于M1、M2 和 M4 芯片的 Mac 设备，M3芯片暂未测试。
+- Windows (AMD64)：支持 Windows 10 和 Windows 11 ，为 Windows 用户提供了稳定的运行环境。Windows 7 不在支持范围内，服务器版本尚未进行测试。
 
 ## 下载安装
 
@@ -132,7 +132,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
   <details>
   <summary>Mac</summary>
-把app移动到应用程序里面,在其他路径下运行可能会出错
+把app移动到应用程序内,在其他路径下运行可能会出错
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d963f63-f2e9-477d-abf1-c854c008427f" alt="image" width="70%" />
@@ -140,7 +140,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 
 
-遇到 "LingJing”已损坏，无法打开。你应该将它移到废纸篓。" 执行下面命令
+遇到【 "LingJing”已损坏，无法打开。你应该将它移到废纸篓。】报错时，执行以下令：
 
 ```bash
 sudo xattr -rd com.apple.quarantine /Applications/LingJing.app
@@ -157,10 +157,10 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   <summary>Windows</summary>
 <br>
 
-下载解压后将LingJing文件夹放置合适的盘符位置即可（PS:避开中文目录,否则路由可能无法启动）
+下载解压后将LingJing文件夹放置于合适的盘符位置即可（PS:避开中文目录,否则路由可能无法启动）
 
     
-  初次需要管理员授权安装网卡。
+  初次安装需要管理员授权安装网卡。
 <br>
 
  <p align="center">
@@ -168,7 +168,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 <img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/>
  </p>
  <br>
-  网卡安装成功会弹出是否重启物理机弹框(不重启的话联动外部虚拟机软件时,可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色则需要尝试重启路由)。
+  网卡安装成功会弹出是否重启物理机对话框(若不重启的话，当联动外部虚拟机软件时,可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色，则需要尝试重启路由)。
 <br><br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" width="45%"/> | <img src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" width="50%"/> 
@@ -241,6 +241,9 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 - Windows物理机仅在通过平台安装或卸载网卡时需要管理员授权。
 
 ## 异常情况
+
+由于不同用户的Windows物理机网络环境配置差异较大，某些特殊网络设置可能导致LingJing平台运行异常。
+
 如果遇到问题，您可以通过LingJing平台公众号加入群聊或GitHub进行反馈，我们将尽快核查修复。感谢您的支持与宝贵意见。
 <details>
   <summary>👈详情</summary>
