@@ -59,7 +59,7 @@ LingJing 平台的靶场资源丰富多样，涵盖开源靶场靶机以及本�
 
 LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及灵活的配置能力，为网络安全学习者和从业者提供一个高效、真实的实战训练环境，助力每一位用户在网络安全领域快速成长。
 
-  **注：因涉及用户本地与云端靶机镜像下载，为保障用户侧和服务端安全性，平台项目代码暂不开源。如有需求平台相关技术的实现可在脱敏前提下进行讨论分享。**
+  **注：因涉及用户本地与云端靶机镜像下载，为保障用户侧和服务端安全性，平台项目代码暂不开源。如有需求，平台相关技术的实现可在脱敏前提下进行讨论分享。**
 
 <br>
 
@@ -183,7 +183,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 <img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/>
  </p>
  <br>
-  网卡安装成功会弹出是否重启物理机对话框(若不重启的话，当联动外部虚拟机软件时,可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色，则需要尝试重启路由)。
+  网卡安装成功会弹出是否重启物理机对话框(若不重启，当联动外部虚拟机软件时,可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色，则需要尝试重启路由)。
 <br><br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" width="45%"/> | <img src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" width="50%"/> 
@@ -203,7 +203,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 <details>
   <summary>👈详情</summary>
-下载完靶机后，启动靶机前需要路由为非红色状态且获取到IP地址
+靶机下载完后，启动靶机前需要路由为非红色状态且获取到IP地址
  <p align="center">
 <img src="https://github.com/user-attachments/assets/ac5a0071-18af-49ce-a3d2-869c591c96d8" width="45%"/> | <img src="https://github.com/user-attachments/assets/2637ac97-bccf-4a2e-9336-4f9a93de524d" width="45%"/> 
  </p>
@@ -257,9 +257,10 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 
 ## 异常情况
 
-由于不同用户的Windows物理机网络环境配置差异较大，某些特殊网络设置可能导致LingJing平台运行异常。
+由于不同用户的 Windows 物理机网络环境配置差异较大，某些特殊网络设置可能导致 LingJing 平台运行异常。若在Windows物理机上可以 ping 通 LingJing 平台启动的靶机，却无法访问靶机的任何服务（例如 HTTP、SSH 等端口均无响应），请首先确认 LingJing 虚拟网卡已获取到与 LingJing平台内置路由同网段的合法 IP 地址；若发现LingJing虚拟网卡未获取正常IP地址，请在 LingJing 虚拟网卡的网络适配器上手动配置一个静态 IP 地址（仅保证与虚拟网卡 IP 处于同一网段即可，无需设置网关和 DNS）。
 
-如果遇到问题，您可以通过LingJing平台公众号加入群聊或GitHub进行反馈，我们将尽快核查修复。感谢您的支持与宝贵意见。
+如果遇到问题，您可以通过LingJing平台公众号加入群聊或在GitHub上进行反馈，我们将尽快核查修复。感谢您的支持与宝贵意见。
+
 <details>
   <summary>👈详情</summary>
   如果平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程,进程会持续运行导致再次启动平台后路由无法正常运行或相应靶机无法启动,请结束进程后通过平台重启路由或重启平台)。
