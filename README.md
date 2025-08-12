@@ -72,7 +72,7 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 <br>
 
 <div align="center">
-  <strong><font size="28">关注公众号,加入灵境测试群聊</font></strong>
+  <strong><font size="28">关注公众号，加入灵境测试群聊</font></strong>
 </div>
 
 <br>
@@ -117,7 +117,7 @@ LingJing平台目前已部署靶机环境44套:
 <p align="center">
   【内置Attacker预告】
 </p>
-由于平台上传限制,视频压缩了画质
+由于平台上传限制，视频压缩了画质
 
 https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
   <details>
   <summary>Mac</summary>
-把app移动到应用程序内,在其他路径下运行可能会出错
+把app移动到应用程序内，在其他路径下运行可能会出错
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d963f63-f2e9-477d-abf1-c854c008427f" alt="image" width="70%" />
@@ -172,7 +172,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   <summary>Windows</summary>
 <br>
 
-下载解压后将LingJing文件夹放置于合适的盘符位置即可（PS:避开中文目录,否则路由可能无法启动）
+下载解压后将LingJing文件夹放置于合适的盘符位置即可（PS:避开中文目录，否则路由可能无法启动）
 
     
   初次安装需要管理员授权安装网卡。
@@ -183,7 +183,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 <img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/>
  </p>
  <br>
-  网卡安装成功会弹出是否重启物理机对话框(若不重启，当联动外部虚拟机软件时,可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡,且路由状态为非红色(若网卡安装成功,但路由状态为红色，则需要尝试重启路由)。
+  网卡安装成功会弹出是否重启物理机对话框(若不重启，当联动外部虚拟机软件时，可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡，且路由状态为非红色(若网卡安装成功，但路由状态为红色，则需要尝试重启路由)。
 <br><br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" width="45%"/> | <img src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" width="50%"/> 
@@ -216,7 +216,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 </p>
 
 
-卸载:Mac物理机直接删除app即可,Windows物理机需要从平台卸载网卡(或其他方式手动卸载)
+卸载:Mac物理机直接删除app即可，Windows物理机需要从平台卸载网卡(或其他方式手动卸载)
 
 
 <p align="center">
@@ -235,7 +235,7 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
 
 <details>
   <summary>👈详情</summary>
-Mac Parallels Desktop中虚拟机使用桥接即可以直接访问靶机,若使用内部网络则需要添加路由(将路由从平台复制到PD虚拟机中执行命令),若PD虚拟机使用PD内部网络则无法反弹Shell
+Mac Parallels Desktop中虚拟机使用桥接即可以直接访问靶机，若使用内部网络则需要添加路由(将路由从平台复制到PD虚拟机中执行命令)，若PD虚拟机使用PD内部网络则无法反弹Shell
   
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6095ec11-1533-4ec5-bec6-0416317d036f" alt="image" width="70%" />
@@ -263,7 +263,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 
 <details>
   <summary>👈详情</summary>
-  如果平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程,进程会持续运行导致再次启动平台后路由无法正常运行或相应靶机无法启动,请结束进程后通过平台重启路由或重启平台)。
+  如果平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程，进程会持续运行导致再次启动平台后，路由无法正常运行或相应靶机无法启动，请结束进程后通过平台重启路由或重启平台)。
   <br>
   Mac
   <br>
@@ -282,7 +282,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 
 <details>
   <summary>👈详情</summary>
-    1. Writeup:在您的文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用,将您的文章链接发送到LingJing平台上的公众号,经验证后引入到平台相应的靶机Writeup
+    1. Writeup:在您的文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用，将您的文章链接发送到LingJing平台上的公众号，经验证后引入到平台相应的靶机Writeup
     <br><br>
     2. 若您有其他合作方式需探讨，敬请与我们联系，共商合作事宜。
     <br><br>
