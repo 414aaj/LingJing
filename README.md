@@ -290,7 +290,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 
 ***谨向以下为LingJing平台提供帮助的师傅致以诚挚谢意（排名不分先后）：***
 
-3had0w(潇湘信安)、liuxw7(乌鸦安全)、ziansd(红队蓝军)、Cream、Xuds、vampireC-hhh、跃迁、名前のない怪物、pulsar、Du
+3had0w(潇湘信安)、crow(乌鸦安全)、ziansd(红队蓝军)、Cream、Xuds、vampireC-hhh、跃迁、名前のない怪物、pulsar、Du
 
 ***同时向灵境平台所集成的所有开源靶场项目及其贡献者致敬：***
 
