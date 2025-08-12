@@ -9,17 +9,7 @@
   <img src="https://github.com/user-attachments/assets/10a89330-aab8-42a1-a2ba-eb698b31f77d" alt="image" width="30%" />
 </p>
 
-<p align="center">
-【项目地址】
-<br>
-非中国区项目访问地址：
-  <br>
-https://github.com/414aaj/LingJing
-<br>
-中国区项目访问地址：
-  <br>
-https://gitee.com/aj414a/LingJing
-</p>
+
 
 <br>
 <p align="center">
