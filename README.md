@@ -218,7 +218,10 @@ brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp
   
 </details>
 
+## 外部适配靶机导入
 
+点击👉 <a href="https://mp.weixin.qq.com/s/WJQ9GPaG4FqzGc7pA2LhbQ">外部适配靶机导入教程</a>
+  
 
 
 ## 外部虚拟机软件联动
