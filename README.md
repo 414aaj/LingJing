@@ -310,7 +310,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 【个人】
 <br>
 <p align="center">
-3had0w、crow、ziansd、Cream、疯狂杨CC(ycc77.cn、ycc77.com)、洛晨、vampireC-hhh、Xuds、跃迁、名前のない怪物、pulsar、Du、小机灵、newWRLDcat、钟沐、Nul1W2y、Smrtni1
+3had0w、crow、ziansd、Cream、疯狂杨CC(ycc77.cn、ycc77.com)、洛晨、vampireC-hhh、Xuds、跃迁、名前のない怪物、pulsar、Du、小机灵、newWRLDcat、钟沐、以后的以后ᯤ⁶ᴳ、Nul1W2y、Smrtni1
 </p> 
 <br>
 
