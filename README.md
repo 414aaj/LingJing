@@ -293,8 +293,29 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 
 ***谨向以下为LingJing平台提供帮助的师傅致以诚挚谢意（排名不分先后）：***
 
-3had0w(潇湘信安)、crow(乌鸦安全)、ziansd(红队蓝军)、Cream、Xuds、vampireC-hhh、跃迁、名前のない怪物、pulsar、Du
-
+  【组织】
+<br>
+<p align="center">
+  红客联盟（弘客数据）
+</p> 
+<br>
+【微信公众号】
+<br>
+<p align="center">
+潇湘信安、乌鸦安全、船山信安、破晓实验室、攻晓防实验室、SGY安全、LingJing灵境、Hack分享吧、神农Sec、安全处女座
+</p> 
+<br>
+【B站】
+<p align="center">
+疯狂杨CC
+</p> 
+<br>
+【个人】
+<br>
+<p align="center">
+3had0w、crow、ziansd、Cream、疯狂杨CC(ycc77.cn、ycc77.com)、vampireC-hhh、Xuds、跃迁、名前のない怪物、pulsar、Du、小机灵、newWRLDcat、钟沐、Nul1W2y、Smrtni1
+</p> 
+<br>
 ***同时向灵境平台所集成的所有开源靶场项目及其贡献者致敬：***
 
 Vulntarget 系列｜VulnStack 红日靶场｜VulNyx｜VulnHub｜vulhub｜DVGA｜DVWA｜JavaSecLab｜WebGoat｜Pikachu｜SQLi-Labs｜Upload-Labs｜xss-labs
