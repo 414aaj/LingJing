@@ -301,7 +301,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 【微信公众号】
 <br>
 <p align="center">
-潇湘信安、乌鸦安全、船山信安、破晓实验室、攻晓防实验室、SGY安全、LingJing灵境、Hack分享吧、神农Sec、安全处女座
+潇湘信安、乌鸦安全、船山信安、破晓实验室、知攻晓防实验室、SGY安全、LingJing灵境、Hack分享吧、神农Sec、安全处女座
 </p> 
 【B站】
 <p align="center">
