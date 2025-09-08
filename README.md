@@ -137,25 +137,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
   <details>
   <summary>Mac</summary>
-把app移动到应用程序内，在其他路径下运行可能会出错
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9d963f63-f2e9-477d-abf1-c854c008427f" alt="image" width="70%" />
-</p>
-
-
-
-遇到【 "LingJing”已损坏，无法打开。你应该将它移到废纸篓。】报错时，执行以下令：
-
-```bash
-sudo xattr -rd com.apple.quarantine /Applications/LingJing.app
-```
-
-安装依赖
-
-```bash
-brew install capstone gnutls pixman jpeg-turbo snappy lzo dtc glib zstd libslirp vde ncurses libusb libssh libpng
-```
+    点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">外部适配靶机导入教程</a>
   </details>
 
   <details>
