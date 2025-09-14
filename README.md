@@ -236,6 +236,11 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 
 如果遇到问题，您可以通过LingJing平台公众号加入群聊或在GitHub上进行反馈，我们将尽快核查修复。感谢您的支持与宝贵意见。
 
+
+
+    
+报错:【WGL: The driver does not appear to supportOpenGL】点击👉 <a href="https://mp.weixin.qq.com/s/GzB0oq5wuKmdMbvKtXBEow?scene=1&click_id=78">解决办法</a>
+
 <details>
   <summary>👈详情</summary>
   如果平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程，进程会持续运行导致再次启动平台后，路由无法正常运行或相应靶机无法启动，请结束进程后通过平台重启路由或重启平台)。
