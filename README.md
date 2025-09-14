@@ -124,9 +124,9 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 ## 平台已适配的物理机系统
 
-- MacOS (Arm64)：已兼容基于M1、M2 和 M4 芯片的 Mac 设备，M3芯片暂未测试。
-- Windows (AMD64)：支持 Windows 10、Windows 11、Windows Server 2025 Datacenter ，为 Windows 用户提供了稳定的运行环境。Windows 7 不在支持范围内。
-
+- MacOS (Arm64)：已兼容基于M系列芯片的 Mac 设备，但未测试M系列的min设备。Windows (AMD64)：支持 Windows 10 和 Windows 11 (已测试。
+- Windows (AMD64)：支持 Windows 10 和 Windows 11 (已测试家庭版、专业版、英文版)系统，为 Windows 用户提供了稳定的运行环境。Windows 7 不在支持范围内，服务器版本尚未进行测试。
+- 
 ## 下载安装
 
 <details>
