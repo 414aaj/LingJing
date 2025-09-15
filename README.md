@@ -137,7 +137,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
   <details>
   <summary>Mac</summary>
-    点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">外部适配靶机导入教程</a>
+    点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Mac安装教程</a>
   </details>
 
   <details>
