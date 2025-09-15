@@ -123,8 +123,8 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 ## 平台已适配的物理机系统
 
 - MacOS (Arm64)：已兼容基于M系列芯片的 Mac 设备，但未测试M系列的Mini设备。
-- Windows (AMD64)：支持 Windows 10 和 Windows 11 (已测试家庭版、专业版、英文版)系统，为 Windows 用户提供了稳定的运行环境。Windows 7 不在支持范围内，服务器版本尚未进行测试。
-- 
+- Windows (AMD64)： 已适配 Windows 10/11 家庭版、专业版及英文版；Windows 7 不在支持范围内，服务器版本尚未测试。
+ 
 ## 下载安装
  点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Mac安装教程</a>
  <br>
