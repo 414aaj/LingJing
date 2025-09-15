@@ -90,6 +90,7 @@ LingJing靶机:自制原创靶机环境或渗透测试实战脱敏靶机环境
 LingJing平台目前已部署靶机环境44套:
   <details>
   <summary>👈👈👈【🔎详情】</summary>
+    
 - VulnStack 6套
 - vulhub 10套
 - vulnhub 10套
@@ -109,8 +110,6 @@ LingJing平台目前已部署靶机环境44套:
 ***
 
 
-<br>
-
 <details>
   <summary>👈👈👈【内置Attacker预告】</summary>
 由于平台上传限制，视频压缩了画质
@@ -122,8 +121,6 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
  </p>
 <br>
 </details>
-
-<br>
 
 ## 平台已适配的物理机系统
 
@@ -177,7 +174,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 
 
     
-报错:【WGL: The driver does not appear to supportOpenGL】点击👉 <a href="https://mp.weixin.qq.com/s/GzB0oq5wuKmdMbvKtXBEow?scene=1&click_id=78">解决办法</a>
+报错:【WGL: The driver does not appear to supportOpenGL】点击👉👉👉 <a href="https://mp.weixin.qq.com/s/GzB0oq5wuKmdMbvKtXBEow?scene=1&click_id=78">解决办法</a>
 
 <details>
   <summary>【🔎👈详情】</summary>
