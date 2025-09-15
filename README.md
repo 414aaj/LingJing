@@ -17,12 +17,15 @@
 </p>
 <br>
 
-
+<details>
+  <summary>👈👈👈【更多】</summary>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ba3f45d3-627f-426e-8768-b365238ac846" alt="image" width="90%" />
 <br>
 <img src="https://github.com/user-attachments/assets/835f6d16-0feb-43ab-845c-10a132b970a5" alt="image" width="90%" />
-<br>
+</details>
+
+
 
 ***
 ## 简介
@@ -106,7 +109,7 @@ LingJing平台目前已部署靶机环境44套:
 <br>
 
 <details>
-  <summary>👉👉👉内置Attacker预告</summary>
+  <summary>👈👈👈内置Attacker预告</summary>
 由于平台上传限制，视频压缩了画质
 
 https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
@@ -116,7 +119,6 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
  </p>
 <br>
 </details>
- 
 
 <br>
 
