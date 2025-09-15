@@ -88,6 +88,8 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 LingJing靶机:自制原创靶机环境或渗透测试实战脱敏靶机环境
 
 LingJing平台目前已部署靶机环境44套:
+  <details>
+  <summary>👈👈👈【🔎详情】</summary>
 - VulnStack 6套
 - vulhub 10套
 - vulnhub 10套
@@ -102,6 +104,7 @@ LingJing平台目前已部署靶机环境44套:
 - JavaSecLab 1套
 - webug 1套
 - DVGA 1套
+</details>
 
 ***
 
@@ -109,7 +112,7 @@ LingJing平台目前已部署靶机环境44套:
 <br>
 
 <details>
-  <summary>👈👈👈内置Attacker预告</summary>
+  <summary>👈👈👈【内置Attacker预告】</summary>
 由于平台上传限制，视频压缩了画质
 
 https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
@@ -144,7 +147,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 ## 外部虚拟机软件联动
 
 <details>
-  <summary>👈详情</summary>
+  <summary>👈【🔎详情】</summary>
 Mac Parallels Desktop中虚拟机使用桥接即可以直接访问靶机，若使用内部网络则需要添加路由(将路由从平台复制到PD虚拟机中执行命令)，若PD虚拟机使用PD内部网络则无法反弹Shell
   
 <p align="center">
@@ -177,7 +180,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 报错:【WGL: The driver does not appear to supportOpenGL】点击👉 <a href="https://mp.weixin.qq.com/s/GzB0oq5wuKmdMbvKtXBEow?scene=1&click_id=78">解决办法</a>
 
 <details>
-  <summary>👈详情</summary>
+  <summary>【🔎👈详情】</summary>
   如果平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程，进程会持续运行导致再次启动平台后，路由无法正常运行或相应靶机无法启动，请结束进程后通过平台重启路由或重启平台)。
   <br>
   Mac
@@ -196,7 +199,7 @@ Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥
 ## 合作项
 
 <details>
-  <summary>👈详情</summary>
+  <summary>【🔎👈详情】</summary>
     1. Writeup:在您的文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用，将您的文章链接发送到LingJing平台上的公众号，经验证后引入到平台相应的靶机Writeup
     <br><br>
     2. 若您有其他合作方式需探讨，敬请与我们联系，共商合作事宜。
