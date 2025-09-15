@@ -104,9 +104,9 @@ LingJing平台目前已部署靶机环境44套:
 
 
 <br>
-<p align="center">
-  【内置Attacker预告】
-</p>
+
+<details>
+  <summary>👉👉👉内置Attacker预告</summary>
 由于平台上传限制，视频压缩了画质
 
 https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
@@ -114,11 +114,9 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
   <p align="center">
 <img src="https://github.com/user-attachments/assets/547f3ba0-8d80-4323-b1bc-ab51e67e3d25" width="45%"/> | <img src="https://github.com/user-attachments/assets/5185db8c-5fd0-445a-843a-c8658c0c07ed" width="45%"/>
  </p>
-<br><br>
-
 <br>
-
-***
+</details>
+ 
 
 <br>
 
@@ -128,77 +126,12 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 - Windows (AMD64)：支持 Windows 10 和 Windows 11 (已测试家庭版、专业版、英文版)系统，为 Windows 用户提供了稳定的运行环境。Windows 7 不在支持范围内，服务器版本尚未进行测试。
 - 
 ## 下载安装
-
-<details>
-  <summary>👈详情</summary>
-
-  
-<img src="https://github.com/user-attachments/assets/03611d91-1da3-4dd6-8e6e-372dfb84e8d5" width="45%"/> | <img src="https://github.com/user-attachments/assets/5f02b083-73fb-4ffc-85a7-a627bd0a5e5d" width="45%"/>
-
-  <details>
-  <summary>Mac</summary>
-    点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Mac安装教程</a>
-  </details>
-
-  <details>
-  <summary>Windows</summary>
-<br>
-
-下载解压后将LingJing文件夹放置于合适的盘符位置即可（PS:避开中文目录，否则路由可能无法启动）
-
-    
-  初次安装需要管理员授权安装网卡。
-<br>
-
- <p align="center">
-<img src="https://github.com/user-attachments/assets/c86ce993-adaf-43cb-98df-3bfc2e875fc8" width="45%"/> | <img src="https://github.com/user-attachments/assets/7aa3d7f2-137c-40a8-8f35-ece4fcd7fef7" width="45%"/>
-<img src="https://github.com/user-attachments/assets/15f0d6d7-22e3-466a-8713-1df3dd148daa" width="45%"/> | <img src="https://github.com/user-attachments/assets/10c8e5c0-75b2-44c3-8e4c-6c7af63046db" width="45%"/>
- </p>
+ 点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Mac安装教程</a>
  <br>
-  网卡安装成功会弹出是否重启物理机对话框(若不重启，当联动外部虚拟机软件时，可能无法找到LingJing网卡)，重启后会看到一张名为LingJing的tap网卡，且路由状态为非红色(若网卡安装成功，但路由状态为红色，则需要尝试重启路由)。
-<br><br>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/d1f5514e-b324-4e14-b23c-5b8f299120fd" width="45%"/> | <img src="https://github.com/user-attachments/assets/a76366ab-50a4-4d72-86dc-77bb9d09c1d0" width="50%"/> 
- </p>
- <br>
-  点击托盘设置好路径
-<br><br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e1685adb-059b-42b8-8c14-060fb6650c96" width="45%"/> | <img src="https://github.com/user-attachments/assets/162449fd-631a-4022-9198-1f8843b8cffc" width="45%"/>
- </p>
-  </details>
-
-
-</details>
-
+ 点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Windows安装教程</a>
 ## 使用方法
 
-<details>
-  <summary>👈详情</summary>
-靶机下载完后，启动靶机前需要路由为非红色状态且获取到IP地址
- <p align="center">
-<img src="https://github.com/user-attachments/assets/ac5a0071-18af-49ce-a3d2-869c591c96d8" width="45%"/> | <img src="https://github.com/user-attachments/assets/2637ac97-bccf-4a2e-9336-4f9a93de524d" width="45%"/> 
- </p>
 
- 
-
-靶机启动后，通过IP访问相应服务
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6d631812-f24a-456b-a028-be27a6f09cd8" alt="image" width="70%" />
-</p>
-
-
-卸载:Mac物理机直接删除app即可，Windows物理机需要从平台卸载网卡(或其他方式手动卸载)
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/045cd6c6-d7c1-43e4-b922-187021aafb4e" alt="image" width="70%" />
-</p>
-
-  </details>
-
-  
-</details>
 
 ## 外部适配靶机导入
 
