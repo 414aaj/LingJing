@@ -142,24 +142,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 
 ## 外部虚拟机软件联动
-
-<details>
-  <summary>👈【🔎详情】</summary>
-Mac Parallels Desktop中虚拟机使用桥接即可以直接访问靶机，若使用内部网络则需要添加路由(将路由从平台复制到PD虚拟机中执行命令)，若PD虚拟机使用PD内部网络则无法反弹Shell
-  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6095ec11-1533-4ec5-bec6-0416317d036f" alt="image" width="70%" />
-</p>
-
-Windows VMware虚拟机可添加网卡桥接LingJing网卡(若VMware在添加桥接网卡时未找到LingJing这张网卡则需要重启一下物理机;若虚拟机未能从LingJing网卡获取到DHCP的IP地址可在虚拟机内对桥接的网卡先禁用再启用网卡，若依旧无法获取IP可尝试手动配置与平台路由通网段的IP地址)
-<br>
- <p align="center">
-<img src="https://github.com/user-attachments/assets/be5c2489-a553-4e7d-b0d6-1b1331c1ffe6" width="45%"/>
-<img src="https://github.com/user-attachments/assets/46614d7c-494d-4d8b-b826-2ff1d0a160aa" width="45%"/> | <img src="https://github.com/user-attachments/assets/36759cb2-00bb-49f9-adc8-a969730f3982" width="45%"/>
-<img src="https://github.com/user-attachments/assets/1311dc70-69f9-41c1-b07b-792e9f673b6f" width="45%"/> | <img src="https://github.com/user-attachments/assets/5881b53f-06bc-464e-bd1b-f2383efd360e" width="70%"/>
- </p>
-  </p>
-</details>
+点击👉 <a href="https://mp.weixin.qq.com/s/dlymJ-laE1maBIGVr4pcIw">外部适配靶机导入教程</a>
 
 ## 平台权限
 - Mac物理机每次运行平台时需管理员授权(使平台路由桥接到物理网卡)
