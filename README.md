@@ -142,7 +142,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 
 ## 外部虚拟机软件联动
-点击👉 <a href="https://mp.weixin.qq.com/s/dlymJ-laE1maBIGVr4pcIw">外部适配靶机导入教程</a>
+点击👉 <a href="https://mp.weixin.qq.com/s/dlymJ-laE1maBIGVr4pcIw">外部虚拟机软件联动教程</a>
 
 ## 平台权限
 - Mac物理机每次运行平台时需管理员授权(使平台路由桥接到物理网卡)
