@@ -206,7 +206,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 【微信公众号】
 <br>
 <p align="center">
-潇湘信安、乌鸦安全、船山信安、破晓实验室、知攻善防实验室、SGY安全、LingJing灵境、Hack分享吧、神农Sec、安全处女座
+潇湘信安、乌鸦安全、船山信安、破晓实验室、知攻善防实验室、SGY安全、LingJing灵境、Hack分享吧、神农Sec、安全处女座、阿乐你好
 </p> 
 【B站】
 <p align="center">
