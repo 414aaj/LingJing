@@ -130,7 +130,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 ## 下载安装
  点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Mac安装教程</a>
  <br>
- 点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Windows安装教程</a>
+ 点击👉 <a href="https://mp.weixin.qq.com/s/8yih6DmxN3Goz5OapbQFdw">Windows安装教程</a>
 ## 使用方法
 
 
