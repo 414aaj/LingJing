@@ -87,7 +87,7 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 
 LingJing靶机:自制原创靶机环境或渗透测试实战脱敏靶机环境
 
-LingJing平台目前已部署靶机环境44套:
+LingJing平台目前已部署靶机环境45套:
   <details>
   <summary>👈👈👈【🔎详情】</summary>
     
@@ -105,6 +105,7 @@ LingJing平台目前已部署靶机环境44套:
 - JavaSecLab 1套
 - webug 1套
 - DVGA 1套
+- rce-labs 1套
 </details>
 
 ***
