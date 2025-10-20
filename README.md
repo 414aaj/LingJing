@@ -10,10 +10,9 @@
 </p>
 
 
-
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/25a66fbb-c5d3-4ed7-994c-1be57998006f" alt="image" width="95%" />
+  <img src="https://github.com/user-attachments/assets/946a4ede-243f-46a1-86f1-1af53db5b651" alt="image" width="95%" />
 </p>
 <br>
 
