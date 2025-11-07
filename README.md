@@ -16,11 +16,7 @@
 </p>
 <br>
 
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dfcabe67-8379-4406-a3b2-9dcd4d6e6a97" alt="image" width="95%" />
-</p>
-<br>
+
 
 <details>
   <summary>👈👈👈【更多】</summary>
