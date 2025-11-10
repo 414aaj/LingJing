@@ -17,17 +17,6 @@
 <br>
 
 
-
-<details>
-  <summary>👈👈👈【更多】</summary>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/ba3f45d3-627f-426e-8768-b365238ac846" alt="image" width="90%" />
-<br>
-<img src="https://github.com/user-attachments/assets/835f6d16-0feb-43ab-845c-10a132b970a5" alt="image" width="90%" />
-</details>
-
-
-
 ***
 ## 简介
 
