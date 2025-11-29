@@ -83,32 +83,8 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 ***
 
 
-## 靶场靶机环境
-
-外部靶机:集成开源渗透靶场、靶机环境或合作方定制靶场
-
-LingJing靶机:自制原创靶机环境或渗透测试实战脱敏靶机环境
-
-LingJing平台目前已部署靶机环境45套:
-  <details>
-  <summary>👈👈👈【🔎详情】</summary>
-    
-- VulnStack 6套
-- vulhub 10套
-- vulnhub 10套
-- vulntarget 7套
-- VulNyx 2套
-- DVWA 1套
-- sqli-labs 1套
-- upload-labs 1套
-- xss-labs 1套
-- pikachu 1套
-- WebGoat 1套
-- JavaSecLab 1套
-- webug 1套
-- DVGA 1套
-- rce-labs 1套
-</details>
+## 已部署靶机环境
+点击👉 <a href="https://blog.csdn.net/2403_88183381/article/details/155376852?spm=1011.2124.3001.6209">灵境靶场平台靶机部署列表</a>
 
 ***
 
@@ -127,8 +103,11 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 ## 平台已适配的物理机系统
 
-- MacOS (Arm64)：已兼容基于M系列芯片的 Mac 设备，但未测试M系列的Mini设备。
-- Windows (AMD64)： 已适配 Windows 10/11 家庭版、专业版及英文版；Windows 7 不在支持范围内，服务器版本尚未测试。
+| 系统 | 支持情况 |
+|------|----------|
+| macOS (Arm64) | 已兼容基于 M 系列芯片的 Mac 设备（含 Mini 设备）。 |
+| Windows (Amd64) | 已适配 Windows 10/11 家庭版、专业版及英文版；Windows 7 及以下版本不再提供支持。 |
+| Linux (Amd64) | 已在 Ubuntu ≥ 24.04 LTS 通过测试。 |
  
 ## 下载安装
  点击👉 <a href="https://mp.weixin.qq.com/s/Z358T7VhKJ18ywTOpRDE7g">Mac安装教程</a>
@@ -163,7 +142,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 报错:【WGL: The driver does not appear to supportOpenGL】点击👉👉👉 <a href="https://mp.weixin.qq.com/s/GzB0oq5wuKmdMbvKtXBEow?scene=1&click_id=78">解决办法</a>
 
 <details>
-  <summary>【🔎👈详情】</summary>
+  <summary>👈【🔎详情】</summary>
   如果平台因为Bug问题异常退出需要手动清理后台所有进程(若不手动清理进程，进程会持续运行导致再次启动平台后，路由无法正常运行或相应靶机无法启动，请结束进程后通过平台重启路由或重启平台)。
   <br>
   Mac
@@ -182,7 +161,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 ## 合作项
 
 <details>
-  <summary>【🔎👈详情】</summary>
+  <summary>👈【🔎详情】</summary>
     1. Writeup:在您的文章中包含LingJing平台项目地址(https://github.com/414aaj/LingJing) 以及平台的使用，将您的文章链接发送到LingJing平台上的公众号，经验证后引入到平台相应的靶机Writeup
     <br><br>
     2. 若您有其他合作方式需探讨，敬请与我们联系，共商合作事宜。
