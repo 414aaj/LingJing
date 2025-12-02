@@ -97,7 +97,7 @@ https://github.com/user-attachments/assets/0ce4c0fe-0062-446e-9eff-17ec1a9a0ed7
 
 | 系统 | 支持情况 |
 |------|----------|
-| macOS (Arm64) | 已兼容基于 M 系列芯片的 Mac 设备（含 Mini 设备）。 |
+| MacOS (Arm64) | 已兼容基于 M 系列芯片的 Mac 设备（含 Mini 设备）。 |
 | Windows (Amd64) | 已适配 Windows 10/11 家庭版、专业版及英文版；Windows 7 及以下版本不再提供支持。 |
 | Linux (Amd64) | 已在 Ubuntu ≥ 24.04 LTS 通过测试。 |
  
