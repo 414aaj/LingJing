@@ -267,7 +267,7 @@ Vulntarget 系列｜VulnStack 红日靶场｜VulNyx｜VulnHub｜vulhub｜DVGA｜
 | 65 | 朱&朱 | 文章打赏 5 元 |
 | 66 | . | 文章打赏 5 元 |
 | 67 | 余 | 文章打赏 3 元 |
-| 68 | 蜜汁狗蛋 | 转账 * 元 |
+| 68 | 蜜汁狗蛋 | 转账 1 元 |
 
 </div>
 
