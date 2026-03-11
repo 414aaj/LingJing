@@ -52,7 +52,7 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d383a8ba-e856-4825-9544-7dd606b33eaa" alt="image" width="50%" />
+  <img src="https://github.com/user-attachments/assets/52cc3365-6dd6-45a9-9ec2-2debb2daf3da" alt="image" width="50%" />
 </p>
 <br>
 
