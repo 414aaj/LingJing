@@ -3,6 +3,15 @@
 ## 免责声明
 本平台仅供网络安全研究与教育用途，旨在提供给具备专业技能的白帽渗透测试人员进行合法的渗透测试和安全评估。非相关人员切勿随意使用或滥用。任何未经授权的网络渗透、入侵或对他人网络的破坏行为均违反法律规定，使用者应对自身行为负责。该平台开发者及分享者不对用户滥用或非法使用平台导致的任何后果承担责任。请务必遵循当地相关法律法规。
 
+<div align="center">
+  <strong><font size="28">公众号已由原Sec铁匠铺迁移至深灵奇境，扫描关注公众号，加入灵境测试群聊及时反馈问题</font></strong>
+</div>
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52cc3365-6dd6-45a9-9ec2-2debb2daf3da" alt="image" width="50%" />
+</p>
+<br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10a89330-aab8-42a1-a2ba-eb698b31f77d" alt="image" width="30%" />
 </p>
@@ -49,19 +58,6 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 <br>
 
 ***
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/52cc3365-6dd6-45a9-9ec2-2debb2daf3da" alt="image" width="50%" />
-</p>
-<br>
-
-<div align="center">
-  <strong><font size="28">关注公众号，加入灵境测试群聊</font></strong>
-</div>
-
-<br>
-
 
 <div align="center">
   ⚠️⚠️⚠️合作项见文末⚠️⚠️⚠️
