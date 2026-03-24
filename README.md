@@ -6,7 +6,6 @@
 <div align="center">
   <strong><font size="28">公众号已由原Sec铁匠铺迁移至深灵奇境，扫描关注公众号，加入灵境测试群聊及时反馈问题</font></strong>
 </div>
-<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/52cc3365-6dd6-45a9-9ec2-2debb2daf3da" alt="image" width="50%" />
 </p>
@@ -58,12 +57,6 @@ LingJing平台旨在提升跨架构兼容性、提供丰富的靶场资源以及
 <br>
 
 ***
-
-<div align="center">
-  ⚠️⚠️⚠️合作项见文末⚠️⚠️⚠️
-</div>
-<br>
-
 <br>
 ***
 
