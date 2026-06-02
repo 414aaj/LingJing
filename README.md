@@ -189,7 +189,7 @@ Vulntarget 系列｜VulnStack 红日靶场｜VulNyx｜VulnHub｜vulhub｜DVGA｜
 
 | 序号 | 赞助者 | 方式 / 金额 |
 |----|----|----|
-| 1 | seven | 服务器一台 |
+| 1 | seven | 物理服务器一台 |
 | 2 | 三月 | 转账 5 万元 |
 | 3 | 洛晨 | 转账 2000 元 |
 | 4 | vampireC-hhh | 转账 2000 元 |
