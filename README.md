@@ -5,12 +5,12 @@
 
 <p align="center">
 
-### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/你的用户名/你的v2仓库名)
-### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/你的用户名/你的v2仓库名)
-### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/你的用户名/你的v2仓库名)
-### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/你的用户名/你的v2仓库名)
-### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/你的用户名/你的v2仓库名)
-### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/你的用户名/你的v2仓库名)
+### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/414aaj/LingJing-V2/)
+### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/414aaj/LingJing-V2/)
+### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/414aaj/LingJing-V2/)
+### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/414aaj/LingJing-V2/)
+### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/414aaj/LingJing-V2/)
+### 此旧版灵境项目已停止更新维护， 【LingJing V2】 即将发布，请移步至 [LingJing v2](https://github.com/414aaj/LingJing-V2/)
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
